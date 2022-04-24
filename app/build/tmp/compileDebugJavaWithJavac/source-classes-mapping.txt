@@ -1,0 +1,44 @@
+com/example/ezinvoicebusiness/ui/my_clients/MyClientsModel.java
+ com.example.ezinvoicebusiness.ui.my_clients.MyClientsModel
+com/example/ezinvoicebusiness/BuildConfig.java
+ com.example.ezinvoicebusiness.BuildConfig
+com/example/ezinvoicebusiness/ui/account_details/AccountDetailsFragment.java
+ com.example.ezinvoicebusiness.ui.account_details.AccountDetailsFragment
+ com.example.ezinvoicebusiness.ui.account_details.AccountDetailsFragment$1
+com/example/ezinvoicebusiness/ui/my_invoices/MyInvoicesFragment.java
+ com.example.ezinvoicebusiness.ui.my_invoices.MyInvoicesFragment
+ com.example.ezinvoicebusiness.ui.my_invoices.MyInvoicesFragment$1
+com/example/ezinvoicebusiness/ui/account_details/AccountDetailsViewModel.java
+ com.example.ezinvoicebusiness.ui.account_details.AccountDetailsViewModel
+com/example/ezinvoicebusiness/ui/my_invoices/MyInvoicesModel.java
+ com.example.ezinvoicebusiness.ui.my_invoices.MyInvoicesModel
+com/example/ezinvoicebusiness/ViewInvoicesActivity.java
+ com.example.ezinvoicebusiness.ViewInvoicesActivity
+com/example/ezinvoicebusiness/databinding/FragmentMyInvoicesBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentMyInvoicesBinding
+com/example/ezinvoicebusiness/ui/my_clients/MyClientsFragment.java
+ com.example.ezinvoicebusiness.ui.my_clients.MyClientsFragment
+ com.example.ezinvoicebusiness.ui.my_clients.MyClientsFragment$1
+com/example/ezinvoicebusiness/MyInvoicesActivity.java
+ com.example.ezinvoicebusiness.MyInvoicesActivity
+com/example/ezinvoicebusiness/databinding/FragmentViewClientsBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentViewClientsBinding
+com/example/ezinvoicebusiness/databinding/FragmentViewInvoicesBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentViewInvoicesBinding
+com/example/ezinvoicebusiness/databinding/FragmentMyClientsBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentMyClientsBinding
+com/example/ezinvoicebusiness/databinding/FragmentCreateInvoiceBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentCreateInvoiceBinding
+com/example/ezinvoicebusiness/databinding/FragmentAccountDetailsBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentAccountDetailsBinding
+com/example/ezinvoicebusiness/MainActivity.java
+ com.example.ezinvoicebusiness.MainActivity
+ com.example.ezinvoicebusiness.MainActivity$1
+ com.example.ezinvoicebusiness.MainActivity$2
+com/example/ezinvoicebusiness/databinding/ActivityMainBinding.java
+ com.example.ezinvoicebusiness.databinding.ActivityMainBinding
+com/example/ezinvoicebusiness/databinding/FragmentAddClientBinding.java
+ com.example.ezinvoicebusiness.databinding.FragmentAddClientBinding
+com/example/ezinvoicebusiness/CreateInvoiceActivity.java
+ com.example.ezinvoicebusiness.CreateInvoiceActivity
+ com.example.ezinvoicebusiness.CreateInvoiceActivity$1

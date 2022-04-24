@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable/ic_launcher_background.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/drawable/outline_account_circle_24.xml" value="0.155" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_create_invoice.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_login.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_my_invoices.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/activity_view_invoices.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_account_details.xml" value="0.1" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_add_client.xml" value="0.13125" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_create_invoice.xml" value="0.2" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_my_clients.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_my_customers.xml" value="0.1" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_my_invoices.xml" value="0.1" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_notifications.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_view_clients.xml" value="0.13125" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/fragment_view_invoices.xml" value="0.1" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/invoice_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/layout/rowlayout.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Stuar/AndroidStudioProjects/EZInvoiceBusiness/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

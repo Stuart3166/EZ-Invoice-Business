@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "552605118073",
+    "firebase_url": "https://ez-invoice-a5430-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ez-invoice-a5430",
+    "storage_bucket": "ez-invoice-a5430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552605118073:android:91260e94d3a3e877a56ea8",
+        "android_client_info": {
+          "package_name": "com.example.ezinvoicebusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552605118073-vqite84gq9vt8o6glr4p75an41ph3v1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kXIZ0Yh39O9FAKrPdrpjaSbfP1zBxQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552605118073-vqite84gq9vt8o6glr4p75an41ph3v1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552605118073:android:f658a051bf64ca07a56ea8",
+        "android_client_info": {
+          "package_name": "com.example.ezinvoicecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552605118073-vqite84gq9vt8o6glr4p75an41ph3v1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kXIZ0Yh39O9FAKrPdrpjaSbfP1zBxQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552605118073-vqite84gq9vt8o6glr4p75an41ph3v1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

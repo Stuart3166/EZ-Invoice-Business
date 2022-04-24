@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_create_invoice.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_create_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_customers.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_my_customers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_account_details.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_account_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rowlayout.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_view_invoices.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_view_invoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_invoices.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_my_invoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\invoice_card.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\invoice_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_client.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\fragment_add_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\Stuar\\AndroidStudioProjects\\EZInvoiceBusiness\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    }
+]
