@@ -39,7 +39,7 @@ public class LoginActivity extends AppCompatActivity {
         btnSignup = findViewById(R.id.btn_signup);
         btnLogin = findViewById(R.id.btn_login);
         btnReset = findViewById(R.id.btn_reset_password);
-
+//
         inputEmail.setText("email@cleanwheels.com");
         inputPassword.setText("password");
 
