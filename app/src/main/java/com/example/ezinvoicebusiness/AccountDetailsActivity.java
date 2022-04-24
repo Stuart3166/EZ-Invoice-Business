@@ -11,16 +11,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
-//public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 public class AccountDetailsActivity extends AppCompatActivity {
 
     private FirebaseAuth auth;
 
-    //    private Button btnSignOut;
     protected void onCreate(Bundle savedInstanceState) {
-//        protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        setContentView(R.layout.fragment_account_details);
         auth = FirebaseAuth.getInstance();
         Button btnSignOut = findViewById(R.id.btnSignOut);
 
@@ -28,7 +24,6 @@ public class AccountDetailsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 auth.signOut();
-//                startActivity(new Intent(AccountDetailsActivity.this, RegisterActivity.class));
             }
         });
 
